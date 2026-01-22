@@ -222,6 +222,7 @@
 - Goal-driven learning
 - Defeasibility (ability to change its mind)
 - Ability to deal with uncertainty
+-
 - ### Problems Attacked in AI
 - Representation
 - Decoding
